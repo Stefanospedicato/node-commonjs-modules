@@ -1,5 +1,5 @@
 function objHobbies (hobbyOne, hobbyTwo, hobbyThree){
-  return obj = {
+  return {
     hobbies:[hobbyOne, hobbyTwo, hobbyThree]
   }
 }

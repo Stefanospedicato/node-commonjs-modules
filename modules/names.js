@@ -1,5 +1,5 @@
 function objName (firstname , lastname){
-  return obj = {
+  return {
     firstname,
     lastname
   }
